@@ -1,0 +1,25 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: candara;
+    background-image: url(../img/bg.jpg);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+
+
+@font-face {
+    font-family: 'candara.woff2';
+    src: url('../font/candara.woff2');
+    font-style: normal; 
+    font-weight: normal; 
+}
+
+.container {
+  
+}
+
